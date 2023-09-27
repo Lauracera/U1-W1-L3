@@ -29,6 +29,10 @@ a {
   color: #0f7777;
 }
 
+span {
+  text-transform: uppercase;
+}
+
 figcaption {
   text-align: center;
   margin-top: 2px;
@@ -43,7 +47,6 @@ header img {
 
 header h4 {
   color: #0f7777;
-  text-transform: uppercase;
   font-size: 10px;
   margin-top: 0;
   font-weight: bold;
